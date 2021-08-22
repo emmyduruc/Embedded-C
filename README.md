@@ -38,7 +38,7 @@ output was derived.
  **Go to the file directory to view code and attached presentation with regards to this lab work**
  
  
-##Project file name 
+##Project file name MC_LAB4
 
 ###Querying LEDs by pressing a push button,
  Interrupt Handler IntPortJHandler()
